@@ -1,1 +1,1 @@
-# cafe_aroma_sql
+Comandos sql para o PROJETO INTEGRADOR DE TECNOLOGIA DA INFORMAÇÃO II-T01-2025-1
